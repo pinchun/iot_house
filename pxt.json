@@ -5,12 +5,13 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+        "IoT_keyestudio": "github:keyestudio2019/ks_IoT#e005d5ca91e63fc3dc9871d27e0c5e01cb4972f3"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
